@@ -2,7 +2,7 @@
 
 Breathing exercise app
 
-![](img/meditation_app_demo.gif)
+![](img/meditation_app_demo.mp4)
 
 ### References
 
