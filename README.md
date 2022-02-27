@@ -2,7 +2,7 @@
 
 Breathing exercise app
 
-![Video of a color changing ball expanding and contracting with a slow breathing rhythm](https://www.youtube.com/watch?v=c_8i8y3TX4U&list=RDGMEMS5MTn5PN5WJmowOZKRa5RgVMZRSNy8DcIDk&index=2)
+![](img/meditation_app_demo.gif)
 
 ### References
 
